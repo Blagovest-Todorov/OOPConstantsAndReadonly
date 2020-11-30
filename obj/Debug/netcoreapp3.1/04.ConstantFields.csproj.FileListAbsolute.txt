@@ -1,0 +1,4 @@
+C:\Users\Bla\source\repos\OOP\04.ConstantFields\obj\Debug\netcoreapp3.1\04.ConstantFields.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\OOP\04.ConstantFields\obj\Debug\netcoreapp3.1\04.ConstantFields.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\04.ConstantFields\obj\Debug\netcoreapp3.1\04.ConstantFields.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\04.ConstantFields\obj\Debug\netcoreapp3.1\04.ConstantFields.csproj.CoreCompileInputs.cache
